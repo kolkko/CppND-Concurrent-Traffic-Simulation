@@ -1,0 +1,9 @@
+*.swp
+*.osm
+*.o
+*.json
+settings.json
+build/
+bin/
+lib/
+.vscode
